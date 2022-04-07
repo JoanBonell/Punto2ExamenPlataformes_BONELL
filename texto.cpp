@@ -41,7 +41,7 @@ int main(int argc, char *argv[])
 		
 
 		//dibuja el texto
-		tigrPrint(screen, tfont, 120, 110, tigrRGB(0xff, 0x00, 0x00), "Rama Master.");
+		tigrPrint(screen, tfont, 120, 110, tigrRGB(0xff, 0x00, 0x00), "Rama Experimental.");
 		
 
 
